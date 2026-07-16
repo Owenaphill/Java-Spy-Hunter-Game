@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Truck2
+comment0.text=Gets\ all\ of\ the\ information\ for\ the\ respawning\ truck\ *
+comment1.params=
+comment1.target=Truck2()
+comment1.text=Constructor\ method\ to\ set\ up\ the\ size\ and\ image\ of\ the\ truck\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=The\ main\ program\ that\ manages\ everything\ *
+numComments=3

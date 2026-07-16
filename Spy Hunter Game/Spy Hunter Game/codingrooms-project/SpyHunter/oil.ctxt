@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=oil
+comment0.text=Gets\ all\ of\ the\ information\ for\ the\ oil\ puddles\ *
+comment1.params=
+comment1.target=oil()
+comment1.text=Constructor\ method\ to\ set\ up\ the\ size\ and\ image\ for\ the\ oil\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=The\ main\ program\ that\ manages\ everything\ *
+numComments=3

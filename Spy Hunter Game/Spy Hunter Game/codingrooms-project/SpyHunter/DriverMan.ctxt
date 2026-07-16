@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DriverMan
+comment0.text=Gets\ all\ of\ the\ information\ for\ the\ player\ *
+comment1.params=
+comment1.target=void\ act()
+comment1.text=The\ main\ program\ that\ manages\ everything\ *
+comment2.params=
+comment2.target=void\ hitSomething()
+comment2.text=method\ that\ handles\ what\ happens\ if\ the\ player\ were\ to\ get\ hit\ *
+numComments=3

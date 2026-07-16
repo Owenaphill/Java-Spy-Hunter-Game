@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Points
+comment0.text=Gets\ all\ of\ the\ information\ for\ displaying\ and\ calculating\ Points\ *
+comment1.params=
+comment1.target=Points()
+comment1.text=Constructor\ method\ used\ to\ set\ up\ the\ text\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=The\ main\ program\ that\ manages\ everything\ *
+comment3.params=
+comment3.target=void\ enemyDown()
+comment3.text=method\ to\ toggle\ that\ the\ enemy\ was\ killed\ *
+numComments=4
